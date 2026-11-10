@@ -1,23 +1,23 @@
 # Chess
 
-A local chess application built with Python.
+A simple chess application written in Python.
 
-This project is developed by two computer science students to gain practical experience in software development, collaboration, and version control.
+The project is developed by two computer science students to practice programming and collaborative software development.
 
-## Goals
+## Features
 
-- Implement a playable chess game for two local players.
-- Implement the rules of chess.
-- Build a graphical user interface.
+The goal is to build a local chess game for two players, including the standard rules of chess and a graphical interface.
 
-## Tech Stack
+## Requirements
 
-- Python
+- Python 3.15
 
 ## Getting Started
 
-Setup and execution instructions will be added as the project develops.
+1. Clone the repository.
+2. Open the project in PyCharm or another Python IDE.
+3. Create a virtual environment (`.venv`) using Python 3.15.
 
-## Project Status
+## Status
 
-Currently in the planning and setup phase.
+Work in progress.
