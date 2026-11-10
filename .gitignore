@@ -1,12 +1,12 @@
-# Virtual environment
-.venv/
-
-# Python
-__pycache__/
-*.py[cod]
-
-# PyCharm
+# IntelliJ IDEA
 .idea/
+*.iml
+
+# Java
+*.class
+out/
+build/
+target/
 
 # macOS
 .DS_Store

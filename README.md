@@ -1,23 +1,26 @@
 # Chess
 
-A simple chess application written in Python.
+A simple chess application written in Java.
 
 The project is developed by two computer science students to practice programming and collaborative software development.
 
-## Features
+## Goals
 
-The goal is to build a local chess game for two players, including the standard rules of chess and a graphical interface.
+- Implement a playable chess game for two local players.
+- Implement the standard rules of chess.
+- Build a graphical user interface.
 
 ## Requirements
 
-- Python 3.15
+- Java 25 (LTS)
 
 ## Getting Started
 
 1. Clone the repository.
-2. Open the project in PyCharm or another Python IDE.
-3. Create a virtual environment (`.venv`) using Python 3.15.
+2. Open the project in IntelliJ IDEA.
+3. Configure JDK 25 as the project SDK.
+4. Set the language level to SDK default.
 
-## Status
+## Project Status
 
 Work in progress.
