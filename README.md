@@ -1,23 +1,26 @@
 # Chess
 
-A local chess application built with Python.
+A simple chess application written in Java.
 
-This project is developed by two computer science students to gain practical experience in software development, collaboration, and version control.
+The project is developed by two computer science students to practice programming and collaborative software development.
 
 ## Goals
 
 - Implement a playable chess game for two local players.
-- Implement the rules of chess.
+- Implement the standard rules of chess.
 - Build a graphical user interface.
 
-## Tech Stack
+## Requirements
 
-- Python
+- Java 25 (LTS)
 
 ## Getting Started
 
-Setup and execution instructions will be added as the project develops.
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Configure JDK 25 as the project SDK.
+4. Set the language level to SDK default.
 
 ## Project Status
 
-Currently in the planning and setup phase.
+Work in progress.
