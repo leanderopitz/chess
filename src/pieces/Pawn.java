@@ -1,8 +1,13 @@
 package pieces;
 
 public class Pawn extends Piece {
-    Pawn(PieceColor color) {
+    public Pawn(PieceColor color) {
         super(color);
+    }
+
+    @Override
+    public String getName() {
+        return "Pawn";
     }
 
     @Override

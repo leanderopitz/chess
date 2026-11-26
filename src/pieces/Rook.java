@@ -1,9 +1,13 @@
 package pieces;
 
 public class Rook extends Piece{
-
-    Rook(PieceColor color) {
+    public Rook(PieceColor color) {
         super(color);
+    }
+
+    @Override
+    public String getName() {
+        return "Rook";
     }
 
     @Override

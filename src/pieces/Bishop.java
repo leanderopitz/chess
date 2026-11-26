@@ -1,9 +1,13 @@
 package pieces;
 
 public class Bishop extends Piece{
-
-    Bishop(PieceColor color) {
+    public Bishop(PieceColor color) {
         super(color);
+    }
+
+    @Override
+    public String getName() {
+        return "Bishop";
     }
 
     @Override

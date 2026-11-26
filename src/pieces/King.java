@@ -1,8 +1,13 @@
 package pieces;
 
 public class King extends Piece{
-    King(PieceColor color) {
+    public King(PieceColor color) {
         super(color);
+    }
+
+    @Override
+    public String getName() {
+        return "King";
     }
 
     @Override
