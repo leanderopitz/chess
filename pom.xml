@@ -1,0 +1,16 @@
+<project>
+    <artifactId>chess</artifactId>
+    <groupId>com.leanderopitz</groupId>
+    <version>1.0-SNAPSHOT</version>
+    <modelVersion>4.0.0</modelVersion>
+    <properties>
+        <maven.compiler.release>25</maven.compiler.release>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>25.0.5.1</version>
+        </dependency>
+    </dependencies>
+</project>
