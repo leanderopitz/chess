@@ -1,6 +1,6 @@
 package pieces;
 
-abstract class Piece {
+public abstract class Piece {
     private final PieceColor color;
 
     // Konstruktor
@@ -10,6 +10,12 @@ abstract class Piece {
     public PieceColor getColor() {
         return this.color;
     }
+    public abstract String getName();
     public abstract boolean isValidMovePattern(int currentRow, int currentCol, int nextRow, int nextCol);
+
+    @Override
+    public String toString() {
+        return getColor() + " " + getName();
+    }
 
 }
